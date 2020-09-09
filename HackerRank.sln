@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem Solving", "Problem Solving", "{89965E82-C5F7-42B1-B2FD-B4F1EE987C72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Warmup", "Warmup", "{93E01FD9-C279-4430-BB0A-7BE6070425E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solve Me First", "Problem Solving\Warmup\Solve Me First\Solve Me First.csproj", "{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,5 +20,23 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Debug|x64.Build.0 = Debug|Any CPU
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Debug|x86.Build.0 = Debug|Any CPU
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Release|x64.ActiveCfg = Release|Any CPU
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Release|x64.Build.0 = Release|Any CPU
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Release|x86.ActiveCfg = Release|Any CPU
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{93E01FD9-C279-4430-BB0A-7BE6070425E3} = {89965E82-C5F7-42B1-B2FD-B4F1EE987C72}
+		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3} = {93E01FD9-C279-4430-BB0A-7BE6070425E3}
 	EndGlobalSection
 EndGlobal
