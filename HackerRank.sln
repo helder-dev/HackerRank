@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Warmup", "Warmup", "{93E01F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solve Me First", "Problem Solving\Warmup\Solve Me First\Solve Me First.csproj", "{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Array Sum", "Problem Solving\Warmup\Simple Array Sum\Simple Array Sum.csproj", "{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,9 +36,22 @@ Global
 		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Release|x64.Build.0 = Release|Any CPU
 		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Release|x86.ActiveCfg = Release|Any CPU
 		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3}.Release|x86.Build.0 = Release|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Debug|x64.Build.0 = Debug|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Debug|x86.Build.0 = Debug|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Release|x64.ActiveCfg = Release|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Release|x64.Build.0 = Release|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Release|x86.ActiveCfg = Release|Any CPU
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{93E01FD9-C279-4430-BB0A-7BE6070425E3} = {89965E82-C5F7-42B1-B2FD-B4F1EE987C72}
 		{295CB0B3-1854-4DCD-86A9-D26B50D6D3D3} = {93E01FD9-C279-4430-BB0A-7BE6070425E3}
+		{4ECC2D13-947B-4CB4-98C4-12E3B4CA7E06} = {93E01FD9-C279-4430-BB0A-7BE6070425E3}
 	EndGlobalSection
 EndGlobal
