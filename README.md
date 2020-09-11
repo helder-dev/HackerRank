@@ -43,3 +43,6 @@
 ### Implementation
 | #  | Title           |  Solution       | Difficulty    | Points          
 -----|---------------- |:---------------:|:-------------:|:--------------:
+| 01 |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| [C#](./Problem%20Solving/Implementation/Grading%20Students/Program.cs) | Easy | 10 | ||
+| 02 |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)| [C#](./Problem%20Solving/Implementation/Apple%20and%20Orange/Program.cs) | Easy | 10 | ||
+| 03 |[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| [C#](./Problem%20Solving/Implementation/Kangaroo/Program.cs) | Easy | 10 | ||
