@@ -33,7 +33,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grading Students", "Problem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple and Orange", "Problem Solving\Implementation\Apple and Orange\Apple and Orange.csproj", "{C6DDB177-8752-479B-B4F9-9F0A159BBFC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Problem Solving\Implementation\Kangaroo\Kangaroo.csproj", "{E2C12D49-E9CA-4FBB-A199-F5E3217BF14B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Line Jumps", "Problem Solving\Implementation\Number Line Jumps\Number Line Jumps.csproj", "{E2C12D49-E9CA-4FBB-A199-F5E3217BF14B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between Two Sets", "Problem Solving\Implementation\Between Two Sets\Between Two Sets.csproj", "{39B3952C-BE5F-4FCF-A224-A167319BCB63}"
 EndProject

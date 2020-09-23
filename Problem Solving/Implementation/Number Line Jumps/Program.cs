@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Kangaroo {
+namespace Number_Line_Jumps {
     class Program {
         public static void Kangaroo(int x1, int v1, int x2, int v2) {
             if ((v1 > v2) && ((x2 - x1) % (v1 - v2) == 0)) {
