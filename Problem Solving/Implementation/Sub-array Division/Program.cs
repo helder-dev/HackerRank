@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Birthday_Chocolate {
+namespace Sub_array_Division {
     class Program {
         public static int Birthday(int[] ar, int d, int m) {
             int sum = 0,

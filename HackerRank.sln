@@ -39,7 +39,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between Two Sets", "Problem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking the Records", "Problem Solving\Implementation\Breaking the Records\Breaking the Records.csproj", "{748834EE-7B32-4B88-ACA2-C78E1CB3BD08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Chocolate", "Problem Solving\Implementation\Birthday Chocolate\Birthday Chocolate.csproj", "{604F46A9-EF26-4CCC-A2FB-BDD4942FDB48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sub-array Division", "Problem Solving\Implementation\Sub-array Division\Sub-array Division.csproj", "{604F46A9-EF26-4CCC-A2FB-BDD4942FDB48}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible Sum Pairs", "Problem Solving\Implementation\Divisible Sum Pairs\Divisible Sum Pairs.csproj", "{B6176108-AE68-49B2-A49B-48D809018BF3}"
 EndProject
