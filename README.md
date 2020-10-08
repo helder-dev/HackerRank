@@ -45,9 +45,9 @@
 -----|---------------- |:---------------:|:-------------:|:--------------:
 | 01 |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| [C#](./Problem%20Solving/Implementation/Grading%20Students/Program.cs) | Easy | 10 | ||
 | 02 |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)| [C#](./Problem%20Solving/Implementation/Apple%20and%20Orange/Program.cs) | Easy | 10 | ||
-| 03 |[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| [C#](./Problem%20Solving/Implementation/Kangaroo/Program.cs) | Easy | 10 | ||
+| 03 |[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)| [C#](./Problem%20Solving/Implementation/Number%20Line%20Jumps/Program.cs) | Easy | 10 | ||
 | 04 |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [C#](./Problem%20Solving/Implementation/Between%20Two%20Sets/Program.cs) | Easy | 10 | ||
 | 05 |[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| [C#](./Problem%20Solving/Implementation/Breaking%20the%20Records/Program.cs) | Easy | 10 | ||
-| 06 |[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [C#](./Problem%20Solving/Implementation/Birthday%20Chocolate/Program.cs) | Easy | 10 | ||
+| 06 |[Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [C#](./Problem%20Solving/Implementation/Sub-array%20Division/Program.cs) | Easy | 10 | ||
 | 07 |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| [C#](./Problem%20Solving/Implementation/Divisible%20Sum%20Pairs/Program.cs) | Easy | 10 | ||
 | 08 |[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)| [C#](./Problem%20Solving/Implementation/Migratory%20Birds/Program.cs) | Easy | 10 | ||
