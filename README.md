@@ -51,3 +51,6 @@
 | 06 |[Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [C#](./Problem%20Solving/Implementation/Sub-array%20Division/Program.cs) | Easy | 10 | ||
 | 07 |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| [C#](./Problem%20Solving/Implementation/Divisible%20Sum%20Pairs/Program.cs) | Easy | 10 | ||
 | 08 |[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)| [C#](./Problem%20Solving/Implementation/Migratory%20Birds/Program.cs) | Easy | 10 | ||
+| 09 |[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)| [C#](./Problem%20Solving/Implementation/Day%20of%20the%20Programmer/Program.cs) | Easy | 15 | ||
+| 10 |[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)| [C#](./Problem%20Solving/Implementation/Bill%20Division/Program.cs) | Easy | 10 | ||
+| 11 |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)| [C#](./Problem%20Solving/Implementation/Sales%20by%20Match/Program.cs) | Easy | 10 | ||
