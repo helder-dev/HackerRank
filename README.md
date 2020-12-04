@@ -54,3 +54,5 @@
 | 09 |[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)| [C#](./Problem%20Solving/Implementation/Day%20of%20the%20Programmer/Program.cs) | Easy | 15 | ||
 | 10 |[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)| [C#](./Problem%20Solving/Implementation/Bill%20Division/Program.cs) | Easy | 10 | ||
 | 11 |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)| [C#](./Problem%20Solving/Implementation/Sales%20by%20Match/Program.cs) | Easy | 10 | ||
+| 12 |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| [C#](./Problem%20Solving/Implementation/Drawing%20Book/Program.cs) | Easy | 10 | ||
+| 13 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [C#](./Problem%20Solving/Implementation/Counting%20Valleys/Program.cs) | Easy | 15 | ||
