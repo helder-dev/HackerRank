@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cats and a Mouse", "Problem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picking Numbers", "Problem Solving\Implementation\Picking Numbers\Picking Numbers.csproj", "{E0D086A9-B8D6-452A-BFFF-EDC974B07049}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climbing the Leaderboard", "Problem Solving\Implementation\Climbing the Leaderboard\Climbing the Leaderboard.csproj", "{2485F7A6-505F-4B3B-8E4C-B5897D86D704}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -400,6 +402,18 @@ Global
 		{E0D086A9-B8D6-452A-BFFF-EDC974B07049}.Release|x64.Build.0 = Release|Any CPU
 		{E0D086A9-B8D6-452A-BFFF-EDC974B07049}.Release|x86.ActiveCfg = Release|Any CPU
 		{E0D086A9-B8D6-452A-BFFF-EDC974B07049}.Release|x86.Build.0 = Release|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Debug|x64.Build.0 = Debug|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Debug|x86.Build.0 = Debug|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Release|x64.ActiveCfg = Release|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Release|x64.Build.0 = Release|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Release|x86.ActiveCfg = Release|Any CPU
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{93E01FD9-C279-4430-BB0A-7BE6070425E3} = {89965E82-C5F7-42B1-B2FD-B4F1EE987C72}
@@ -431,5 +445,6 @@ Global
 		{8F98D2B7-10BE-4DF5-85FB-40ACFF860F9B} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
 		{5C413032-5268-41C0-A5C1-3130E2C6C1C5} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
 		{E0D086A9-B8D6-452A-BFFF-EDC974B07049} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
+		{2485F7A6-505F-4B3B-8E4C-B5897D86D704} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
 	EndGlobalSection
 EndGlobal
