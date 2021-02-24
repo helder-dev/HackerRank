@@ -56,3 +56,6 @@
 | 11 |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)| [C#](./Problem%20Solving/Implementation/Sales%20by%20Match/Program.cs) | Easy | 10 | ||
 | 12 |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| [C#](./Problem%20Solving/Implementation/Drawing%20Book/Program.cs) | Easy | 10 | ||
 | 13 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [C#](./Problem%20Solving/Implementation/Counting%20Valleys/Program.cs) | Easy | 15 | ||
+| 14 |[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| [C#](./Problem%20Solving/Implementation/Electronics%20Shop/Program.cs) | Easy | 15 | ||
+| 15 |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| [C#](./Problem%20Solving/Implementation/Cats%20and%20a%20Mouse/Program.cs) | Easy | 15 | ||
+| 16 |[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)| [C#](./Problem%20Solving/Implementation/Forming%20a%20Magic%20Square/Program.cs) | Medium | 20 | ||
