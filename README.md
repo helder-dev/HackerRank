@@ -59,3 +59,14 @@
 | 14 |[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| [C#](./Problem%20Solving/Implementation/Electronics%20Shop/Program.cs) | Easy | 15 | ||
 | 15 |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| [C#](./Problem%20Solving/Implementation/Cats%20and%20a%20Mouse/Program.cs) | Easy | 15 | ||
 | 16 |[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)| [C#](./Problem%20Solving/Implementation/Forming%20a%20Magic%20Square/Program.cs) | Medium | 20 | ||
+| 17 |[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)| [C#](./Problem%20Solving/Implementation/Picking%20Numbers/Program.cs) | Easy | 20 | ||
+| 18 |[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)| [C#](./Problem%20Solving/Implementation/Climbing%20the%20Leaderboard/Program.cs) | Medium | 20 | ||
+| 19 |[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)| [C#](./Problem%20Solving/Implementation/The%20Hurdle%20Race/Program.cs) | Easy | 15 | ||
+| 20 |[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)| [C#](./Problem%20Solving/Implementation/Designer%20PDF%20Viewer/Program.cs) | Easy | 20 | ||
+| 21 |[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)| [C#](./Problem%20Solving/Implementation/Utopian%20Tree/Program.cs) | Easy | 20 | ||
+| 22 |[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)| [C#](./Problem%20Solving/Implementation/Angry%20Professor/Program.cs) | Easy | 20 | ||
+| 23 |[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)| [C#](./Problem%20Solving/Implementation/Beautiful%20Days%20at%20the%20Movies/Program.cs) | Easy | 15 | ||
+| 24 |[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)| [C#](./Problem%20Solving/Implementation/Viral%20Advertising/Program.cs) | Easy | 15 | ||
+| 25 |[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)| [C#](./Problem%20Solving/Implementation/Save%20the%20Prisoner!/Program.cs) | Easy | 15 | ||
+| 26 |[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)| [C#](./Problem%20Solving/Implementation/Circular%20Array%20Rotation/Program.cs) | Easy | 20 | ||
+| 27 |[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)| [C#](./Problem%20Solving/Implementation/Sequence%20Equation/Program.cs) | Easy | 20 | ||
