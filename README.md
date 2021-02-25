@@ -70,3 +70,9 @@
 | 25 |[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)| [C#](./Problem%20Solving/Implementation/Save%20the%20Prisoner!/Program.cs) | Easy | 15 | ||
 | 26 |[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)| [C#](./Problem%20Solving/Implementation/Circular%20Array%20Rotation/Program.cs) | Easy | 20 | ||
 | 27 |[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)| [C#](./Problem%20Solving/Implementation/Sequence%20Equation/Program.cs) | Easy | 20 | ||
+| 28 |[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)| [C#](./Problem%20Solving/Implementation/Jumping%20on%20the%20Clouds%20-%20Revisited/Program.cs) | Easy | 15 | ||
+| 29 |[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| [C#](./Problem%20Solving/Implementation/Find%20Digits/Program.cs) | Easy | 25 | ||
+| 30 |[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)| [C#](./Problem%20Solving/Implementation/Extra%20Long%20Factorials/Program.cs) | Medium | 20 | ||
+| 31 |[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)| [C#](./Problem%20Solving/Implementation/Append%20and%20Delete/Program.cs) | Easy | 20 | ||
+| 32 |[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)| [C#](./Problem%20Solving/Implementation/Sherlock%20and%20Squares/Program.cs) | Easy | 20 | ||
+| 33 |[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)| [C#](./Problem%20Solving/Implementation/Library%20Fine) | Easy | 15 | ||
