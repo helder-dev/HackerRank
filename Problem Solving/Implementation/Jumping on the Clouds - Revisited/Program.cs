@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Jumping_on_the_Clouds {
+namespace Jumping_on_the_Clouds_Revisited {
     class Program {
         public static int JumpingOnClouds(int[] ar, int k) {
             if (ar.Length % k != 0) return 80;

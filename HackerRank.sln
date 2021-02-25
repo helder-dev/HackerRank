@@ -83,7 +83,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circular Array Rotation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence Equation", "Problem Solving\Implementation\Sequence Equation\Sequence Equation.csproj", "{520062E7-FBBB-4D86-A29E-4426865B6ED3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumping on the Clouds", "Problem Solving\Implementation\Jumping on the Clouds\Jumping on the Clouds.csproj", "{CB64E053-8B89-4EF7-B7C9-0C6A1F07923D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumping on the Clouds - Revisited", "Problem Solving\Implementation\Jumping on the Clouds - Revisited\Jumping on the Clouds - Revisited.csproj", "{CB64E053-8B89-4EF7-B7C9-0C6A1F07923D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Digits", "Problem Solving\Implementation\Find Digits\Find Digits.csproj", "{132FADD9-0729-48D7-81E8-2E6E69D453F8}"
 EndProject
