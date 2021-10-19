@@ -75,4 +75,7 @@
 | 30 |[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)| [C#](./Problem%20Solving/Implementation/Extra%20Long%20Factorials/Program.cs) | Medium | 20 | ||
 | 31 |[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)| [C#](./Problem%20Solving/Implementation/Append%20and%20Delete/Program.cs) | Easy | 20 | ||
 | 32 |[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)| [C#](./Problem%20Solving/Implementation/Sherlock%20and%20Squares/Program.cs) | Easy | 20 | ||
-| 33 |[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)| [C#](./Problem%20Solving/Implementation/Library%20Fine) | Easy | 15 | ||
+| 33 |[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)| [C#](./Problem%20Solving/Implementation/Library%20Fine/Program.cs) | Easy | 15 | ||
+| 34 |[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)| [C#](./Problem%20Solving/Implementation/Cut%20the%20sticks/Program.cs) | Easy | 25 | ||
+| 35 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)| [C#](./Problem%20Solving/Implementation/Non-Divisible%20Subset/Program.cs) | Medium | 20 | ||
+| 36 |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)| [C#](./Problem%20Solving/Implementation/Repeated%20String/Program.cs) | Easy | 20 | ||
