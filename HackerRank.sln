@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taum and Bday", "Problem So
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organizing Containers of Balls", "Problem Solving\Implementation\Organizing Containers of Balls\Organizing Containers of Balls.csproj", "{798928BC-BCBB-4335-9A6D-453EC8B9CE22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Problem Solving\Implementation\Encryption\Encryption.csproj", "{F09CD27E-946E-47A3-888E-564061D6C4B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -736,6 +738,18 @@ Global
 		{798928BC-BCBB-4335-9A6D-453EC8B9CE22}.Release|x64.Build.0 = Release|Any CPU
 		{798928BC-BCBB-4335-9A6D-453EC8B9CE22}.Release|x86.ActiveCfg = Release|Any CPU
 		{798928BC-BCBB-4335-9A6D-453EC8B9CE22}.Release|x86.Build.0 = Release|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Debug|x64.Build.0 = Debug|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Debug|x86.Build.0 = Debug|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Release|x64.ActiveCfg = Release|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Release|x64.Build.0 = Release|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Release|x86.ActiveCfg = Release|Any CPU
+		{F09CD27E-946E-47A3-888E-564061D6C4B1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{93E01FD9-C279-4430-BB0A-7BE6070425E3} = {89965E82-C5F7-42B1-B2FD-B4F1EE987C72}
@@ -791,5 +805,6 @@ Global
 		{33102BE3-8D85-4E52-806F-6F5E9234BE31} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
 		{20AB803F-B928-4194-967D-960FA878FA56} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
 		{798928BC-BCBB-4335-9A6D-453EC8B9CE22} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
+		{F09CD27E-946E-47A3-888E-564061D6C4B1} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
 	EndGlobalSection
 EndGlobal
