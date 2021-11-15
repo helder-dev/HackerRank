@@ -115,7 +115,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Problem Solvi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bigger is Greater", "Problem Solving\Implementation\Bigger is Greater\Bigger is Greater.csproj", "{ECBC72D3-AA3B-4E9E-9504-DA930002BB8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modified Kaprekar Numbers", "Problem Solving\Implementation\Modified Kaprekar Numbers\Modified Kaprekar Numbers.csproj", "{C4F5982B-4E85-4EE8-B35C-DB6C2439E288}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modified Kaprekar Numbers", "Problem Solving\Implementation\Modified Kaprekar Numbers\Modified Kaprekar Numbers.csproj", "{ECA926FA-DD92-4485-8D61-794ADE743A29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -778,6 +778,18 @@ Global
 		{C4F5982B-4E85-4EE8-B35C-DB6C2439E288}.Release|x64.Build.0 = Release|Any CPU
 		{C4F5982B-4E85-4EE8-B35C-DB6C2439E288}.Release|x86.ActiveCfg = Release|Any CPU
 		{C4F5982B-4E85-4EE8-B35C-DB6C2439E288}.Release|x86.Build.0 = Release|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Debug|x64.Build.0 = Debug|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Debug|x86.Build.0 = Debug|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Release|x64.ActiveCfg = Release|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Release|x64.Build.0 = Release|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Release|x86.ActiveCfg = Release|Any CPU
+		{ECA926FA-DD92-4485-8D61-794ADE743A29}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{93E01FD9-C279-4430-BB0A-7BE6070425E3} = {89965E82-C5F7-42B1-B2FD-B4F1EE987C72}
@@ -836,5 +848,6 @@ Global
 		{F09CD27E-946E-47A3-888E-564061D6C4B1} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
 		{ECBC72D3-AA3B-4E9E-9504-DA930002BB8B} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
 		{C4F5982B-4E85-4EE8-B35C-DB6C2439E288} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
+		{ECA926FA-DD92-4485-8D61-794ADE743A29} = {F49BFA8A-890F-4EE8-9645-B257A291738E}
 	EndGlobalSection
 EndGlobal
