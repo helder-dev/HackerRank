@@ -14,16 +14,12 @@ namespace Bigger_is_Greater {
                 i--;
             }
 
-            Console.WriteLine("i: " + i);
-
             if (i <= 0)return "no answer";
 
             int j = wLength - 1;
             while (wCharArray[j] <= wCharArray[i - 1]) {
                 j--;
             }
-
-            Console.WriteLine("j: " + j);
 
             char temp = wCharArray[i - 1];
             wCharArray[i - 1] = wCharArray[j];
