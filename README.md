@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://www.hackerrank.com/helder">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=50 src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png">
     </a>
-    <br>My solutions to HackerRank practice problems using C#
+    <br><br>My solutions to HackerRank practice problems using C#
 </p>
 <p align="center">
 	If you are interested in helping or have a different solution, feel free to make a pull request.
