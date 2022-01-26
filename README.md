@@ -79,3 +79,11 @@
 | 34 |[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)| [C#](./Problem%20Solving/Implementation/Cut%20the%20sticks/Program.cs) | Easy | 25 | ||
 | 35 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)| [C#](./Problem%20Solving/Implementation/Non-Divisible%20Subset/Program.cs) | Medium | 20 | ||
 | 36 |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)| [C#](./Problem%20Solving/Implementation/Repeated%20String/Program.cs) | Easy | 20 | ||
+| 37 |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)| [C#](./Problem%20Solving/Implementation/Jumping%20on%20the%20Clouds/Program.cs) | Easy | 20 | ||
+| 38 |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)| [C#](./Problem%20Solving/Implementation/Equalize%20the%20Array/Program.cs) | Easy | 20 | ||
+| 39 |[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)| [C#](./Problem%20Solving/Implementation/ACM%20ICPC%20Team/Program.cs) | Easy | 25 | ||
+| 40 |[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)| [C#](./Problem%20Solving/Implementation/Taum%20and%20Bday/Program.cs) | Easy | 25 | ||
+| 41 |[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)| [C#](./Problem%20Solving/Implementation/Organizing%20Containers%20of%20Balls/Program.cs) | Medium | 30 | ||
+| 42 |[Encryption](https://www.hackerrank.com/challenges/encryption/problem)| [C#](./Problem%20Solving/Implementation/Encryption/Program.cs) | Medium | 30 | ||
+| 43 |[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)| [C#](./Problem%20Solving/Implementation/Bigger%20is%20Greater/Program.cs) | Medium | 35 | ||
+| 44 |[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)| [C#](./Problem%20Solving/Implementation/Modified%20Kaprekar%20Numbers/Program.cs) | Easy | 30 | ||
