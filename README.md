@@ -87,3 +87,10 @@
 | 42 |[Encryption](https://www.hackerrank.com/challenges/encryption/problem)| [C#](./Problem%20Solving/Implementation/Encryption/Program.cs) | Medium | 30 | ||
 | 43 |[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)| [C#](./Problem%20Solving/Implementation/Bigger%20is%20Greater/Program.cs) | Medium | 35 | ||
 | 44 |[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)| [C#](./Problem%20Solving/Implementation/Modified%20Kaprekar%20Numbers/Program.cs) | Easy | 30 | ||
+| 45 |[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)| [C#](./Problem%20Solving/Implementation/Beautiful%20Triplets/Program.cs) | Easy | 20 | ||
+| 46 |[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)| [C#](./Problem%20Solving/Implementation/Minimum%20Distances/Program.cs) | Easy | 20 | ||
+| 47 |[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)| [C#](./Problem%20Solving/Implementation/Halloween%20Sale/Program.cs) | Easy | 20 | ||
+| 48 |[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)| [C#](./Problem%20Solving/Implementation/The%20Time%20in%20Words/Program.cs) | Medium | 25 | ||
+| 49 |[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)| [C#](./Problem%20Solving/Implementation/Chocolate%20Feast/Program.cs) | Easy | 25 | ||
+| 50 |[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)| [C#](./Problem%20Solving/Implementation/Service%20Lane/Program.cs) | Easy | 20 | ||
+| 51 |[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)| [C#](./Problem%20Solving/Implementation/Lisa%20Workbook/Program.cs) | Easy | 25 | ||
