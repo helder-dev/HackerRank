@@ -94,3 +94,5 @@
 | 49 |[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)| [C#](./Problem%20Solving/Implementation/Chocolate%20Feast/Program.cs) | Easy | 25 | ||
 | 50 |[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)| [C#](./Problem%20Solving/Implementation/Service%20Lane/Program.cs) | Easy | 20 | ||
 | 51 |[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)| [C#](./Problem%20Solving/Implementation/Lisa%20Workbook/Program.cs) | Easy | 25 | ||
+| 52 |[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)| [C#](./Problem%20Solving/Implementation/Flatland%20Space%20Stations/Program.cs) | Easy | 25 | ||
+| 53 |[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)| [C#](./Problem%20Solving/Implementation/Fair%20Rations/Program.cs) | Easy | 25 | ||
