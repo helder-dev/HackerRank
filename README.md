@@ -96,3 +96,6 @@
 | 51 |[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)| [C#](./Problem%20Solving/Implementation/Lisa%20Workbook/Program.cs) | Easy | 25 | ||
 | 52 |[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)| [C#](./Problem%20Solving/Implementation/Flatland%20Space%20Stations/Program.cs) | Easy | 25 | ||
 | 53 |[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)| [C#](./Problem%20Solving/Implementation/Fair%20Rations/Program.cs) | Easy | 25 | ||
+| 54 |[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)| [C#](./Problem%20Solving/Implementation/Cavity%20Map/Program.cs) | Easy | 30 | ||
+
+
