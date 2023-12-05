@@ -81,21 +81,26 @@
 | 36 |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)| [C#](./Problem%20Solving/Implementation/Repeated%20String/Program.cs) | Easy | 20 | ||
 | 37 |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)| [C#](./Problem%20Solving/Implementation/Jumping%20on%20the%20Clouds/Program.cs) | Easy | 20 | ||
 | 38 |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)| [C#](./Problem%20Solving/Implementation/Equalize%20the%20Array/Program.cs) | Easy | 20 | ||
-| 39 |[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)| [C#](./Problem%20Solving/Implementation/ACM%20ICPC%20Team/Program.cs) | Easy | 25 | ||
-| 40 |[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)| [C#](./Problem%20Solving/Implementation/Taum%20and%20Bday/Program.cs) | Easy | 25 | ||
-| 41 |[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)| [C#](./Problem%20Solving/Implementation/Organizing%20Containers%20of%20Balls/Program.cs) | Medium | 30 | ||
-| 42 |[Encryption](https://www.hackerrank.com/challenges/encryption/problem)| [C#](./Problem%20Solving/Implementation/Encryption/Program.cs) | Medium | 30 | ||
-| 43 |[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)| [C#](./Problem%20Solving/Implementation/Bigger%20is%20Greater/Program.cs) | Medium | 35 | ||
-| 44 |[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)| [C#](./Problem%20Solving/Implementation/Modified%20Kaprekar%20Numbers/Program.cs) | Easy | 30 | ||
-| 45 |[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)| [C#](./Problem%20Solving/Implementation/Beautiful%20Triplets/Program.cs) | Easy | 20 | ||
-| 46 |[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)| [C#](./Problem%20Solving/Implementation/Minimum%20Distances/Program.cs) | Easy | 20 | ||
-| 47 |[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)| [C#](./Problem%20Solving/Implementation/Halloween%20Sale/Program.cs) | Easy | 20 | ||
-| 48 |[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)| [C#](./Problem%20Solving/Implementation/The%20Time%20in%20Words/Program.cs) | Medium | 25 | ||
-| 49 |[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)| [C#](./Problem%20Solving/Implementation/Chocolate%20Feast/Program.cs) | Easy | 25 | ||
-| 50 |[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)| [C#](./Problem%20Solving/Implementation/Service%20Lane/Program.cs) | Easy | 20 | ||
-| 51 |[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)| [C#](./Problem%20Solving/Implementation/Lisa%20Workbook/Program.cs) | Easy | 25 | ||
-| 52 |[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)| [C#](./Problem%20Solving/Implementation/Flatland%20Space%20Stations/Program.cs) | Easy | 25 | ||
-| 53 |[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)| [C#](./Problem%20Solving/Implementation/Fair%20Rations/Program.cs) | Easy | 25 | ||
-| 54 |[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)| [C#](./Problem%20Solving/Implementation/Cavity%20Map/Program.cs) | Easy | 30 | ||
+| 39 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| [C#](./Problem%20Solving/Implementation/Queens%20Attack%20II/Program.cs) | Medium | 30 | ||
+| 40 |[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)| [C#](./Problem%20Solving/Implementation/ACM%20ICPC%20Team/Program.cs) | Easy | 25 | ||
+| 41 |[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)| [C#](./Problem%20Solving/Implementation/Taum%20and%20Bday/Program.cs) | Easy | 25 | ||
+| 42 |[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)| [C#](./Problem%20Solving/Implementation/Organizing%20Containers%20of%20Balls/Program.cs) | Medium | 30 | ||
+| 43 |[Encryption](https://www.hackerrank.com/challenges/encryption/problem)| [C#](./Problem%20Solving/Implementation/Encryption/Program.cs) | Medium | 30 | ||
+| 44 |[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)| [C#](./Problem%20Solving/Implementation/Bigger%20is%20Greater/Program.cs) | Medium | 35 | ||
+| 45 |[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)| [C#](./Problem%20Solving/Implementation/Modified%20Kaprekar%20Numbers/Program.cs) | Easy | 30 | ||
+| 46 |[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)| [C#](./Problem%20Solving/Implementation/Beautiful%20Triplets/Program.cs) | Easy | 20 | ||
+| 47 |[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)| [C#](./Problem%20Solving/Implementation/Minimum%20Distances/Program.cs) | Easy | 20 | ||
+| 48 |[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)| [C#](./Problem%20Solving/Implementation/Halloween%20Sale/Program.cs) | Easy | 20 | ||
+| 49 |[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)| [C#](./Problem%20Solving/Implementation/The%20Time%20in%20Words/Program.cs) | Medium | 25 | ||
+| 50 |[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)| [C#](./Problem%20Solving/Implementation/Chocolate%20Feast/Program.cs) | Easy | 25 | ||
+| 51 |[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)| [C#](./Problem%20Solving/Implementation/Service%20Lane/Program.cs) | Easy | 20 | ||
+| 52 |[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)| [C#](./Problem%20Solving/Implementation/Lisa%20Workbook/Program.cs) | Easy | 25 | ||
+| 53 |[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)| [C#](./Problem%20Solving/Implementation/Flatland%20Space%20Stations/Program.cs) | Easy | 25 | ||
+| 54 |[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)| [C#](./Problem%20Solving/Implementation/Fair%20Rations/Program.cs) | Easy | 25 | ||
+| 55 |[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)| [C#](./Problem%20Solving/Implementation/Cavity%20Map/Program.cs) | Easy | 30 | ||
+| 56 |[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)| [C#]() | Easy | 30 | ||
+| 57 |[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)| [C#](./Problem%20Solving/Implementation/The%20Grid%20Search/Program.cs) | Medium | 30 | ||
+| 58 |[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)| [C#](./Problem%20Solving/Implementation/Happy%20Ladybugs/Program.cs) | Easy | 30 | ||
+| 59 |[Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)| [C#](./Problem%20Solving/Implementation/Strange%20Counter/Program.cs) | Easy | 30 | ||
 
 
