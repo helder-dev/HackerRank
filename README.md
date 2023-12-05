@@ -102,5 +102,6 @@
 | 57 |[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)| [C#](./Problem%20Solving/Implementation/The%20Grid%20Search/Program.cs) | Medium | 30 | ||
 | 58 |[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)| [C#](./Problem%20Solving/Implementation/Happy%20Ladybugs/Program.cs) | Easy | 30 | ||
 | 59 |[Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)| [C#](./Problem%20Solving/Implementation/Strange%20Counter/Program.cs) | Easy | 30 | ||
+| 60 |[3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem)| [C#](./Problem%20Solving/Implementation/3D%20Surface%20Area/Program.cs) | Medium | 30 | ||
 
 
