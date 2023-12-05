@@ -98,7 +98,7 @@
 | 53 |[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)| [C#](./Problem%20Solving/Implementation/Flatland%20Space%20Stations/Program.cs) | Easy | 25 | ||
 | 54 |[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)| [C#](./Problem%20Solving/Implementation/Fair%20Rations/Program.cs) | Easy | 25 | ||
 | 55 |[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)| [C#](./Problem%20Solving/Implementation/Cavity%20Map/Program.cs) | Easy | 30 | ||
-| 56 |[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)| [C#]() | Easy | 30 | ||
+| 56 |[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)| [C#](./Problem%20Solving/Implementation/Manasa%20and%20Stones/Program.cs) | Easy | 30 | ||
 | 57 |[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)| [C#](./Problem%20Solving/Implementation/The%20Grid%20Search/Program.cs) | Medium | 30 | ||
 | 58 |[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)| [C#](./Problem%20Solving/Implementation/Happy%20Ladybugs/Program.cs) | Easy | 30 | ||
 | 59 |[Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)| [C#](./Problem%20Solving/Implementation/Strange%20Counter/Program.cs) | Easy | 30 | ||
