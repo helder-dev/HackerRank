@@ -48,7 +48,7 @@
 | 03 |[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)| [C#](./Problem%20Solving/Implementation/Number%20Line%20Jumps/Program.cs) | Easy | 10 | ||
 | 04 |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [C#](./Problem%20Solving/Implementation/Between%20Two%20Sets/Program.cs) | Easy | 10 | ||
 | 05 |[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| [C#](./Problem%20Solving/Implementation/Breaking%20the%20Records/Program.cs) | Easy | 10 | ||
-| 06 |[Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [C#](./Problem%20Solving/Implementation/Sub-array%20Division/Program.cs) | Easy | 10 | ||
+| 06 |[Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| [C#](./Problem%20Solving/Implementation/Sub-array%20Division/Program.cs) | Easy | 10 | ||
 | 07 |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| [C#](./Problem%20Solving/Implementation/Divisible%20Sum%20Pairs/Program.cs) | Easy | 10 | ||
 | 08 |[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)| [C#](./Problem%20Solving/Implementation/Migratory%20Birds/Program.cs) | Easy | 10 | ||
 | 09 |[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)| [C#](./Problem%20Solving/Implementation/Day%20of%20the%20Programmer/Program.cs) | Easy | 15 | ||
